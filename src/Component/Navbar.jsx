@@ -3,7 +3,7 @@ import { MdOutlineArrowOutward } from "react-icons/md";
 const Navbar = () => {
   return (
     <>
-      <header className="p-4 bg-gray-800 dark:bg-gray-100 text-gray-100 dark:text-gray-800">
+      <header className="mt-5">
         <div className="container flex justify-between h-16 mx-auto">
           <a
             rel="noopener noreferrer"
