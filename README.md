@@ -1,8 +1,18 @@
-# React + Vite
+# DOC+
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DOC+ is a comprehensive healthcare platform that connects patients with specialist doctors and provides access to a wide range of medical facilities. Our mission is to make quality healthcare accessible and convenient for everyone.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit our live site: [DOC+](https://jt-project01.netlify.app)
+
+## Features
+
+- **Comprehensive Facilities**: Access a wide range of medical facilities and services through our platform.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and booking.
+- **Secure and Private**: We prioritize the security and privacy of your medical information.
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
