@@ -1,6 +1,6 @@
 const Faq = () => {
   return (
-    <section className="rounded-md bg-[#FFFFF5] mb-14">
+    <section className="rounded-3xl bg-[#FFFFF5] mb-14">
       <div className="container flex flex-col justify-center p-4 mx-auto md:p-8">
         <p className="badge p-4 px-4">Faq</p>
         <h2 className="mb-5 text-4xl font-bold leading-none sm:text-3xl">
